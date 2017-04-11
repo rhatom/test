@@ -16,4 +16,4 @@ blckJack(20,22)
 blckJack(22,19)
 blckJack(22,22)
 
-#test 3 1648
+#test wew
